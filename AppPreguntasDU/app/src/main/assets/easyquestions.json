@@ -1,0 +1,36 @@
+{
+  "easyquestions": [
+    {
+      "question": "¿Que día es nuestro aniversario?",
+      "answer1": "A) 18 de Agosto",
+      "answer2": "B) 7 de Octubre",
+      "answer3": "C) 9 de Septiembre",
+      "answer4": "D) 23 de Diciembre",
+      "correct": "A) 18 de Agosto"
+    },
+    {
+      "question": "¿Como empezamos a hablar?",
+      "answer1": "A) Por mensaje de Whats",
+      "answer2": "B) Por mensaje de Messenger",
+      "answer3": "C) Nos encontramos en persona",
+      "answer4": "D) Nos mandamos señales de humo",
+      "correct": "B) Por mensaje de Messenger"
+    },
+    {
+      "question": "¿Cual ha sido el lugar más lejano al que hemos viajado juntos?",
+      "answer1": "A) Mazamitla",
+      "answer2": "B) Leon",
+      "answer3": "C) Guadalajara",
+      "answer4": "D) Irapuato",
+      "correct": "C) Guadalajara"
+    },
+    {
+      "question": "¿Que fue lo que comimos en nuestra primera cita?",
+      "answer1": "A) Pizza",
+      "answer2": "B) Hamburguesas",
+      "answer3": "C) Tacos",
+      "answer4": "D) Helado",
+      "correct": "D) Helado"
+    }
+  ]
+}

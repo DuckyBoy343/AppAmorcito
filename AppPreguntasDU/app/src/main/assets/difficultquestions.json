@@ -1,0 +1,36 @@
+{
+  "difficultquestions": [
+    {
+      "question": "¿Que pelicula vimos juntos primero?",
+      "answer1": "A) 007 Sin tiempo para morir",
+      "answer2": "B) Un lugar en silencio",
+      "answer3": "C) Dune",
+      "answer4": "D) Venom",
+      "correct": "B) Un lugar en silencio"
+    },
+    {
+      "question": "¿Cual fue la primera canción que te dedique?",
+      "answer1": "A) Sanctuary - Joji",
+      "answer2": "B) Can i call you tonight - ",
+      "answer3": "C) Make you mine - PUBLIC",
+      "answer4": "D) Eyes on me - Faye Wong",
+      "correct": "D) Eyes on me - Faye Wong"
+    },
+    {
+      "question": "¿Cual sera nuestro primer destino de viaje fuera del pais?",
+      "answer1": "A) Australia",
+      "answer2": "B) Francia",
+      "answer3": "C) Japón",
+      "answer4": "D) China",
+      "correct": "C) Japón"
+    },
+    {
+      "question": "¿Cual fue nuestro primer apodo anoroso de los dos?",
+      "answer1": "A) Pedacito de cielo/Cerecita",
+      "answer2": "B) Amorcito/Corazón",
+      "answer3": "C) Pedacito de cielo/Lobito",
+      "answer4": "D) Brujita/Lobito",
+      "correct": "A) Pedacito de cielo/Cerecita"
+    }
+  ]
+}
